@@ -106,6 +106,7 @@
     ffmpegthumbnailer
     bat
     mpv
+    mesa
     lxappearance
     pcmanfm
 #    udisks2
